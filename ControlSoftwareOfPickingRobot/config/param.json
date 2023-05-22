@@ -1,0 +1,36 @@
+
+{
+
+    "gripper_put":[1600,    800,   3300,  2700],
+    "gripper_grip":[800,      0,   2500,  1900],
+    "gripper_roll":[1650,    1600,   1350,  2000],
+    "gripper_back":[200,   300,    50,    600],
+
+    "motor_ratio": 1.0,
+
+    "camera_intrinsics":[597.267, 0, 319.115, 0, 597.267, 234.382, 0, 0, 1],
+
+    "zone_division":[0.20, 0.80, 0.30, 0.70], 
+    "current_threshold":70,
+
+    "workingSpace":[0.95, 2.150, 0.150, 1.781],
+    
+    "safe_protection":[0.2, 0.4],
+
+    "updown_threshold": 1.50,
+
+    "group_threshold":[30, 0.08],
+
+    "depth_filter":[500, 1500],
+
+    "max_velocity":[20, 20, 20, 20, 20, 20, 15, 15, 15, 15],
+    
+    "isReached_threshold":[0.02, 0.01],
+
+    "check_threshold":0.08
+
+
+
+
+
+}
