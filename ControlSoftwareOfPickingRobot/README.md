@@ -17,3 +17,6 @@ pip install -r requirements.txt
 # 🏃如何运行
 
 python3 main.py
+
+# ⚠️ License
+All software is licensed under the Apache License 2.0 License. See LICENSE file for details.
