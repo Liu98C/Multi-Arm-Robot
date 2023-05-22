@@ -19,4 +19,4 @@ pip install -r requirements.txt
 python3 main.py
 
 # ⚠️ License
-All software is licensed under the Apache License 2.0 License. See [LICENSE](https://github.com/road-of-god/Multi-Arm-Robot/blob/main/ControlSoftwareOfPickingRobot/LICENSE.txt) file for details.
+All software is licensed under the Apache License 2.0 License. See [LICENSE](https://github.com/road-of-god/Multi-Arm-Robot/blob/main/LICENSE)file for details.
